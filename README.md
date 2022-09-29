@@ -11,4 +11,4 @@ It involves determining the possibility of customers stopping doing business wit
 
 
 ### Deliverables:
-An application with a simple GUI that accepts input classification method and the accuracy of the used classification method. Also, the gui can accept data of a customer and predict if he\she may cancel the subscription
+An application with a simple GUI " tkinter library " that accepts input classification method and the accuracy of the used classification method. Also, the gui can accept data of a customer and predict if he\she may cancel the subscription
